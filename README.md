@@ -7,7 +7,7 @@ Hi This is a Google integrated chatbot Where the token of your telegram bot is a
 
 
 
-Step 1:- Go to @BotFather and create one bot for u and at last copy the Bot token and save it!!!
+Step 1:- Go to telegram and in search bar type @BotFather and go there and start the bot and create one bot for u and at last copy the Bot token and save it!!!
 
 Step 2:- Git clone or copy the code and paste into the vscode into your project and plz i know there will be shown error!! so you have to install some pakages like pip install and all implement by searching the latest version of the pakage shwon in terminal...
 
